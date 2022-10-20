@@ -1,2 +1,4 @@
 public static void Praktikum {
-} //hihihi
+	public static main {
+	}
+} 
